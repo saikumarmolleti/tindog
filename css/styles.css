@@ -1,0 +1,126 @@
+#title {
+ padding-bottom: 8%;
+  background-color: #ff4c68;
+  color: white;
+}
+
+.nitem {
+  font-weight: bold;
+  font-size: large;
+}
+
+#mainhead {
+  font-family: 'Nerko One', cursive;
+  font-size: 5rem;
+  line-height: 1;
+  padding-top: 10%;
+  margin: 10% 0 0 0;
+}
+
+#headmain {
+  padding: 3% 10%;
+}
+.container-fluid{
+ padding: 3% 15% 7%;
+}
+
+#nb {
+  font-family: 'ubuntu';
+  font-size: 2.5rem;
+}
+
+.download-button {
+  margin: 8% 5% 5% 0%;
+}
+
+.title-image {
+  margin-left: 12%;
+  width: 20rem;
+  transform: rotate(15deg);
+  margin-top: 5%;
+  position: absolute;
+}
+
+#features {
+  padding: 8% 12%;
+  background-color: aliceblue;
+  text-align: center;
+  position: relative;
+  z-index: 1;
+}
+
+.feature {
+  color: #ff8b9c;
+}
+.feature:hover {
+  color: #ff4460;
+}
+
+h3 {
+  font-family: 'Nerko One', cursive;
+  padding-top: 5%;
+}
+P {
+  color: #8f8f8f;
+}
+
+/* testimonials */
+#testimonials {
+  background-color: #ff4c68;
+  text-align: center;
+  color: aliceblue;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+#fontstyle {
+  padding: 3% 10%;
+  line-height: 1.5;
+  font-family: 'Nerko One', cursive;
+  font-size: 3rem;
+}
+.testimonial-image {
+  border-radius: 100%;
+  width: 10rem;
+  margin-right: 3%;
+}
+.carousel-item {
+  padding: 4.5% 5% 8% 5%;
+}
+
+/* press */
+#press {
+  text-align: center;
+  padding-bottom: 4%;
+  background-color: #ff4c68;
+}
+.press-item {
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+
+/* pricing */
+#pricing {
+ text-align: center;
+ padding: 100px;
+}
+
+.itemspace{
+ padding: 20px;
+}
+
+
+/* footer */
+
+#cta {
+ font-size: 3rem;
+ padding: 7% 5%;
+ background-color: #ff4c68;
+ text-align: center;
+}
+
+/* footer */
+
+#footer{
+ padding-top: 1%;
+ text-align: center;
+}
