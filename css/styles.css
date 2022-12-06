@@ -1,5 +1,5 @@
 #title {
- padding-bottom: 8%;
+  padding-bottom: 8%;
   background-color: #ff4c68;
   color: white;
 }
@@ -20,8 +20,8 @@
 #headmain {
   padding: 3% 10%;
 }
-.container-fluid{
- padding: 3% 15% 7%;
+.container-fluid {
+  padding: 3% 15% 7%;
 }
 
 #nb {
@@ -34,8 +34,7 @@
 }
 
 .title-image {
-  margin-left: 12%;
-  width: 20rem;
+  margin-left: 5%;
   transform: rotate(15deg);
   margin-top: 5%;
   position: absolute;
@@ -100,27 +99,36 @@ P {
 
 /* pricing */
 #pricing {
- text-align: center;
- padding: 100px;
+  text-align: center;
+  padding: 100px;
 }
 
-.itemspace{
- padding: 20px;
+.itemspace {
+  padding: 20px;
 }
-
 
 /* footer */
 
 #cta {
- font-size: 3rem;
- padding: 7% 5%;
- background-color: #ff4c68;
- text-align: center;
+  font-size: 3rem;
+  padding: 7% 5%;
+  background-color: #ff4c68;
+  text-align: center;
 }
 
 /* footer */
 
-#footer{
- padding-top: 1%;
- text-align: center;
+#footer {
+  padding-top: 1%;
+  text-align: center;
+}
+
+@media (max-width: 993px) {
+  .row {
+    text-align: center;
+  }
+  .title-image {
+    position: static;
+    transform: rotate(0);
+  }
 }
